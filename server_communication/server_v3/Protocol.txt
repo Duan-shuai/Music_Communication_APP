@@ -1,0 +1,23 @@
+1.log_in:
+client：
+{   "HEAD","LOGIN"
+    "ID", String
+    "PASSWD", String 
+}
+server:
+{
+    "HEAD","LOGIN"
+    "BODY",1 OR 0
+}
+2.regist:
+client：
+{
+    "HEAD","REGIST"
+    "USER",String
+    "PASSWD", String
+}
+server：
+{
+    "HEAD","REGIST"
+    "BODY","ID" OR 0
+}
