@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/guanbi.png</file>
+        <file>resource/zuixiaohua.png</file>
+        <file>resource/main_page_logo.png</file>
+        <file>resource/music_logo.png</file>
+        <file>resource/message_logo.png</file>
+        <file>resource/setting_logo.png</file>
+        <file>resource/bfzn_004.png</file>
+        <file>resource/bfzn_001.png</file>
+        <file>resource/bfzn_002.png</file>
+        <file>resource/bfzn_003.png</file>
+        <file>resource/duan.jpg</file>
+        <file>resource/music/Ref_rain(《恋如雨止》TV动画片尾曲)-《恋如雨止》TV动画片尾曲-Aimer-40647520.mp3</file>
+        <file>resource/music/七里香-周杰伦-94237.mp3</file>
+        <file>resource/music/六等星の夜-Aimer-40090227.mp3</file>
+        <file>resource/music/半岛铁盒-周杰伦-235498.mp3</file>
+        <file>resource/music/发如雪-周杰伦-118990.mp3</file>
+        <file>resource/music/夜曲-周杰伦-118980.mp3</file>
+        <file>resource/music/搁浅-周杰伦-94239.mp3</file>
+        <file>resource/music/明明就-周杰伦-3197116.mp3</file>
+        <file>resource/music/星屑ビーナス-《奢侈的爱情会降临吗》电视剧主题曲-Aimer-40084981.mp3</file>
+        <file>resource/music/枫-周杰伦-118987.mp3</file>
+        <file>resource/music/稻香-周杰伦-440613.mp3</file>
+        <file>resource/music/茜さす-Aimer-40090226.mp3</file>
+        <file>resource/music/Ref_rain(《恋如雨止》TV动画片尾曲)-《恋如雨止》TV动画片尾曲-Aimer.mp3</file>
+        <file>resource/music/七里香-周杰伦.mp3</file>
+        <file>resource/music/六等星の夜-Aimer.mp3</file>
+        <file>resource/music/半岛铁盒-周杰伦.mp3</file>
+        <file>resource/music/发如雪-周杰伦.mp3</file>
+        <file>resource/music/夜曲-周杰伦.mp3</file>
+        <file>resource/music/搁浅-周杰伦.mp3</file>
+        <file>resource/music/明明就-周杰伦.mp3</file>
+        <file>resource/music/星屑ビーナス-《奢侈的爱情会降临吗》电视剧主题曲-Aimer.mp3</file>
+        <file>resource/music/枫-周杰伦.mp3</file>
+        <file>resource/music/稻香-周杰伦.mp3</file>
+        <file>resource/music/茜さす-Aimer.mp3</file>
+    </qresource>
+</RCC>

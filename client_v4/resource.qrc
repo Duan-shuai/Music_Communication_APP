@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/bfzn_001.png</file>
+        <file>resource/bfzn_002.png</file>
+        <file>resource/bfzn_003.png</file>
+        <file>resource/bfzn_004.png</file>
+        <file>resource/bfzn_005.png</file>
+        <file>resource/bfzn_006.png</file>
+        <file>resource/bfzn_007.png</file>
+        <file>resource/duan.jpg</file>
+        <file>resource/guanbi.png</file>
+        <file>resource/main_page_logo.png</file>
+        <file>resource/message_logo.png</file>
+        <file>resource/music_logo.png</file>
+        <file>resource/pause.ico</file>
+        <file>resource/play.ico</file>
+        <file>resource/setting_logo.png</file>
+        <file>resource/zuixiaohua.png</file>
+        <file>resource/voice_close.png</file>
+        <file>resource/voice_open.png</file>
+    </qresource>
+</RCC>
